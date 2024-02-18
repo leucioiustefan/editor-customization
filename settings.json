@@ -32,6 +32,9 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.fontLigatures": "'liga', 'dlig', 'ss01', 'ss02'",
   "editor.fontFamily": "'Monaspace Neon Regular', Consolas",
-  "workbench.colorTheme": "Night Owl",
-  "editor.fontSize": 16
+  "editor.fontSize": 16,
+  "prettier.requireConfig": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "workbench.colorTheme": "Night Owl"
 }
